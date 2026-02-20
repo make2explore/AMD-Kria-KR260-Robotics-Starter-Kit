@@ -18,10 +18,10 @@ The board is heavily optimized for industrial networking and machine vision, equ
 - Boot Kria Starter Kit Linux on KR260 [Getting Started Guide](https://xilinx.github.io/kria-apps-docs/kr260/build/html/docs/linux_boot.html)  
 
 **Software**
-- NoMachine for Raspberry Pi [Server](https://download.nomachine.com/download/?id=29&platform=linux&distro=raspberry)  
+- Install Ubuntu on AMD  [Download](https://ubuntu.com/download/amd)  
+- NoMachine for KR260 [Server](https://download.nomachine.com/download/?id=1&platform=linux)  
 - NoMachine Client for Host PC/Laptop Running - Linux/Windows/Mac [Client](https://www.nomachine.com/)  
-- Raspberry Pi Imager [Download](https://www.raspberrypi.com/software/)  
-- Raspberry Pi OS [Download](https://www.raspberrypi.com/software/operating-systems/)  
+- Balena Eatcher [Download](https://etcher.balena.io/)  
 - SD Card Formatter - [Download](https://www.sdcard.org/downloads/)  
   
 **Hardware**
