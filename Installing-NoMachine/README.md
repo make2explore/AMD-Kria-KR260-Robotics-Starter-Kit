@@ -52,8 +52,12 @@ arm64
 # 2. Update Base System
 
 ```bash
-sudo apt update
-sudo apt upgrade -y
+ssudo add-apt-repository ppa:xilinx-apps --yes &&
+sudo add-apt-repository ppa:ubuntu-xilinx/default --yes &&
+sudo add-apt-repository ppa:xilinx-apps/xilinx-drivers --yes &&
+sudo add-apt-repository ppa:lely/ppa --yes &&
+sudo apt update --yes &&
+sudo apt upgrade --yes
 ```
 
 ---
