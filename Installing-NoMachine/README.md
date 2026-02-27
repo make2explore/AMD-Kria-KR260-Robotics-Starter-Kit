@@ -199,7 +199,7 @@ There should be no active `Xorg` process.
 
 On your PC:
 
-1. Install NoMachine Client
+1. Install NoMachine Client as per OS from [nomachine.com](https://www.nomachine.com/)  
 2. Connect to the KR260 IP address
 3. Login with your Ubuntu credentials
 
