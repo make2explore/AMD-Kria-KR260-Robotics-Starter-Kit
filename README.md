@@ -21,7 +21,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 - Install Ubuntu on AMD  [Download](https://ubuntu.com/download/amd)  
 - NoMachine for KR260 [Server](https://download.nomachine.com/download/?id=1&platform=linux)  
 - NoMachine Client for Host PC/Laptop Running - Linux/Windows/Mac [Client](https://www.nomachine.com/)  
-- Balena Eatcher [Download](https://etcher.balena.io/)  
+- Raspberry Pi Imager [Download](https://www.raspberrypi.com/software/)  
 - SD Card Formatter - [Download](https://www.sdcard.org/downloads/)  
   
 **Hardware**
