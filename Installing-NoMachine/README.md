@@ -110,10 +110,11 @@ This installs XFCE without enabling graphical boot.
 # 5. Download NoMachine (ARM64)  
 - Go to Following link and copy the latest version of NoMachine package for 'ARM DEB (arm64)' -  
 - [NoMachine Official Download Page](https://download.nomachine.com/download/?id=30&platform=linux&distro=arm)  
-- Insert that download link into following wget command and execute it
+- Insert that download link into following wget command and execute it.
+- As shown in following example. (Latest package on 06/02/26)
 
 ```bash
-wget --content-disposition "https://downloads.nomachine.com/download/?id=30&platform=linux&distro=arm"
+wget "https://web9001.nomachine.com/download/9.3/Arm/nomachine_9.3.7_1_arm64.deb"
 ```
 
 Verify the file:
