@@ -1,6 +1,6 @@
 # AMD-Kria-KR260-Robotics-Starter-Kit  
 
-<img src="/Images/Kria-kr260.jpg" height="200">  
+<img src="/Images/Kria-kr260.jpg" height="200">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/m2e-Kria-NoMa-thumb.jpg" height="200" >
   
 In this **Video Tutorial**, We are going to see Hardware overview of Kria KR260 Robotics Starter Kit
 
@@ -39,6 +39,8 @@ The board is heavily optimized for industrial networking and machine vision, equ
 📕 **YouTube Video Links**  
 
 ▶️ KR260 Robotics Starter Kit Unboxing - ROS 2 + FPGA Power 🔗  https://youtu.be/dSLpAk4iOcQ  
+
+▶️ KR260 Robotics Starter Kit Headless Setup using NoMachine RDS 🔗  https://youtu.be/S-gdlXVWeXY  
 
 
 -------------------------------------------------------------------------------------------------------
