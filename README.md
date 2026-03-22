@@ -40,7 +40,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 
 ▶️ KR260 Robotics Starter Kit Unboxing - ROS 2 + FPGA Power 🔗  https://youtu.be/dSLpAk4iOcQ  
 
-▶️ KR260 Robotics Starter Kit Headless Setup using NoMachine RDS 🔗  https://youtu.be/S-gdlXVWeXY  
+▶️ KR260 Robotics Starter Kit Headless Setup 🔗  https://youtu.be/S-gdlXVWeXY  
 
 
 -------------------------------------------------------------------------------------------------------
