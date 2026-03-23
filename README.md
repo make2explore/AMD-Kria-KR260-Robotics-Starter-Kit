@@ -28,7 +28,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 - Kria KR260 Robotics Starter Kit
 - High Speed SD Card 16/32/64 GB  
 - Card Reader  
-- KR260 Power Supply & Adapter - AC/DC WALL MOUNT ADAPTER 12V 36W  
+- KR260 Power Supply & Adapter - AC/DC WALL MOUNT ADAPTER 12V, 3A 36W  
 - USB-A to micro-B Cable  
 - Ethernet Cable  
 - DisplayPort Cable
