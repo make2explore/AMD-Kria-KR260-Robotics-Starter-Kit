@@ -30,7 +30,7 @@ The board is heavily optimized for industrial networking and machine vision, equ
 - Card Reader  
 - KR260 Power Supply & Adapter - AC/DC WALL MOUNT ADAPTER 12V, 3A 36W  
 - USB-A to micro-B Cable  
-- Ethernet Cable  
+- Ethernet Cable Cat5/6 
 - DisplayPort Cable
 - DisplayPort Monitor
 
